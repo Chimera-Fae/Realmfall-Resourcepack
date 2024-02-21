@@ -2,7 +2,7 @@
 	"credit": "Made by Chimera Fae",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "item/witch_hat",
+		"layer0": "item/witch_hat",
 		"particle": "item/witch_hat"
 	},
 	"elements": [
@@ -120,12 +120,12 @@
 			"to": [14, 6.15, 14],
 			"rotation": {"angle": 0, "axis": "z", "origin": [8, 6.15, 7]},
 			"faces": {
-				"north": {"uv": [7.25, 8, 10.25, 8.75], "texture": "#0", "tintindex": 0},
-				"east": {"uv": [0, 8.5, 3, 9.25], "texture": "#0", "tintindex": 0},
-				"south": {"uv": [7.25, 9, 10.25, 9.75], "texture": "#0", "tintindex": 0},
-				"west": {"uv": [0, 9.5, 3, 10.25], "texture": "#0", "tintindex": 0},
-				"up": {"uv": [7.25, 3, 4.25, 0], "texture": "#0", "tintindex": 0},
-				"down": {"uv": [7.25, 3.25, 4.25, 6.25], "texture": "#0", "tintindex": 0}
+				"north": {"uv": [7.25, 8, 10.25, 8.75], "texture": "#0"},
+				"east": {"uv": [0, 8.5, 3, 9.25], "texture": "#0"},
+				"south": {"uv": [7.25, 9, 10.25, 9.75], "texture": "#0"},
+				"west": {"uv": [0, 9.5, 3, 10.25], "texture": "#0"},
+				"up": {"uv": [7.25, 3, 4.25, 0], "texture": "#0"},
+				"down": {"uv": [7.25, 3.25, 4.25, 6.25], "texture": "#0"}
 			}
 		},
 		{
