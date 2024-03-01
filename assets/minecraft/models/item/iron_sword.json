@@ -11,10 +11,10 @@
 
   {"predicate": {"custom_model_data":105}, "model": "item/basic_longsword"},
   {"predicate": {"custom_model_data":205}, "model": "item/standard_longsword"},
-  {"predicate": {"custom_model_data":305}, "model": "item/master_shortsword"},
+  {"predicate": {"custom_model_data":305}, "model": "item/master_longsword"},
   
   {"predicate": {"custom_model_data":106}, "model": "item/basic_greatsword"},
-  {"predicate": {"custom_model_data":206}, "model": "item/standard_shortsword"},
-  {"predicate": {"custom_model_data":306}, "model": "item/master_shortsword"}
+  {"predicate": {"custom_model_data":206}, "model": "item/standard_greatsword"},
+  {"predicate": {"custom_model_data":306}, "model": "item/master_greatsword"}
   ]
  }
