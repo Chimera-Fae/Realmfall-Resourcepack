@@ -1,0 +1,43 @@
+{
+	"credit": "Made by samus2002",
+	"texture_size": [64, 64],
+	"textures": {
+		"0": "item/heroes/mage/arcane_missile",
+		"particle": "item/heroes/mage/arcane_missile"
+	},
+	"elements": [
+		{
+			"from": [8, 1.5, -2.5],
+			"to": [8, 14.5, 18.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
+			"faces": {
+				"north": {"uv": [5.5, 0, 5.5, 3.25], "texture": "#0"},
+				"east": {"uv": [0, 0, 5.25, 3.25], "texture": "#0"},
+				"south": {"uv": [5.5, 3.5, 5.5, 6.75], "texture": "#0"},
+				"west": {"uv": [5.25, 0, 0, 3.25], "texture": "#0"},
+				"up": {"uv": [5.75, 5.25, 5.75, 0], "texture": "#0"},
+				"down": {"uv": [5.75, 5.5, 5.75, 10.75], "texture": "#0"}
+			}
+		},
+		{
+			"from": [1.5, 8, -2.5],
+			"to": [14.5, 8, 18.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
+			"faces": {
+				"north": {"uv": [5.5, 0, 5.5, 3.25], "rotation": 90, "texture": "#0"},
+				"east": {"uv": [5.75, 5.5, 5.75, 10.75], "rotation": 270, "texture": "#0"},
+				"south": {"uv": [5.5, 3.5, 5.5, 6.75], "rotation": 270, "texture": "#0"},
+				"west": {"uv": [5.75, 5.25, 5.75, 0], "rotation": 270, "texture": "#0"},
+				"up": {"uv": [0, 0, 5.25, 3.25], "rotation": 270, "texture": "#0"},
+				"down": {"uv": [5.25, 0, 0, 3.25], "rotation": 270, "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"rotation": [0, 0, 45],
+			"translation": [0.75, -20, -1.25],
+			"scale": [2, 2, 2]
+		}
+	}
+}

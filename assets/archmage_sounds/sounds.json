@@ -1,0 +1,99 @@
+{
+  "samus.arcane_bolt": {
+    "category": "master",
+    "sounds": [
+      "samus/archmage/arcane_bolt"
+    ]
+  },
+  "samus.arcane_hit": {
+    "category": "master",
+    "sounds": [
+      "samus/archmage/arcane_hit"
+    ]
+  },
+  "samus.arcane_slash": {
+    "category": "master",
+    "sounds": [
+      "samus/archmage/arcane_slash_1",
+	  "samus/archmage/arcane_slash_2"
+    ]
+  },
+  "samus.arcane_thunder": {
+    "category": "master",
+    "sounds": [
+      "samus/archmage/arcane_thunder"
+    ]
+  },
+  "samus.archmage_magic_circle": {
+    "category": "master",
+    "sounds": [
+      "samus/archmage/archmage_magic_circle"
+    ]
+  },
+  "samus.blizzard": {
+    "category": "master",
+    "sounds": [
+      "samus/archmage/blizzard"
+    ]
+  },
+  "samus.hastur_summon": {
+    "category": "master",
+    "sounds": [
+      "samus/archmage/hastur_summon"
+    ]
+  },
+  "samus.meteor_explosion": {
+    "category": "master",
+    "sounds": [
+      "samus/archmage/meteor_explosion"
+    ]
+  },
+  "samus.meteor_explosion_2": {
+    "category": "master",
+    "sounds": [
+      "samus/archmage/meteor_explosion_2"
+    ]
+  },
+  "samus.meteor_fall": {
+    "category": "master",
+    "sounds": [
+      "samus/archmage/meteor_fall"
+    ]
+  },
+  "samus.shield_block": {
+    "category": "master",
+    "sounds": [
+      "samus/archmage/shield_block"
+    ]
+  },
+  "samus.void_portal": {
+    "category": "master",
+    "sounds": [
+      "samus/archmage/void_portal"
+    ]
+  },
+  "samus.void_chain_hit": {
+    "category": "master",
+    "sounds": [
+      "samus/archmage/void_chain_hit"
+    ]
+  },
+  "samus.void_chain": {
+    "category": "master",
+    "sounds": [
+      "samus/archmage/void_chain"
+    ]
+  },
+  "samus.thunder_sky": {
+    "category": "master",
+    "sounds": [
+      "samus/archmage/thunder_sky"
+    ]
+  },
+  "samus.shield_form": {
+    "category": "master",
+    "sounds": [
+      "samus/archmage/shield_form"
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+	"credit": "Made by samus2002",
+	"texture_size": [128, 128],
+	"textures": {
+		"0": "item/heroes/archer/dragon_arrow",
+		"particle": "item/heroes/archer/dragon_arrow"
+	},
+	"elements": [
+		{
+			"from": [9.75, -7.7232, -14.464],
+			"to": [9.75, 24.2256, 30.464],
+			"rotation": {"angle": 0, "axis": "z", "origin": [10.75, 10.75, 8]},
+			"faces": {
+				"north": {"uv": [5.75, 0, 5.75, 4], "texture": "#0"},
+				"east": {"uv": [5.625, 4.125, 0, 8.125], "texture": "#0"},
+				"south": {"uv": [5.75, 4.125, 5.75, 8.125], "texture": "#0"},
+				"west": {"uv": [0, 4.125, 5.625, 8.125], "texture": "#0"},
+				"up": {"uv": [5.875, 5.625, 5.875, 0], "texture": "#0"},
+				"down": {"uv": [5.875, 5.75, 5.875, 11.375], "texture": "#0"}
+			}
+		},
+		{
+			"from": [-7.7244, 9.7488, -14.464],
+			"to": [24.2244, 9.7488, 30.464],
+			"rotation": {"angle": 0, "axis": "z", "origin": [10.75, 10.75, 8]},
+			"faces": {
+				"north": {"uv": [5.75, 0, 5.75, 4], "rotation": 270, "texture": "#0"},
+				"east": {"uv": [5.875, 5.625, 5.875, 0], "rotation": 90, "texture": "#0"},
+				"south": {"uv": [5.75, 4.125, 5.75, 8.125], "rotation": 90, "texture": "#0"},
+				"west": {"uv": [5.875, 5.75, 5.875, 11.375], "rotation": 90, "texture": "#0"},
+				"up": {"uv": [0, 4.125, 5.625, 8.125], "rotation": 90, "texture": "#0"},
+				"down": {"uv": [5.625, 4.125, 0, 8.125], "rotation": 90, "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [-90, 0, 0],
+			"translation": [-9.25, -31.5, 7.75],
+			"scale": [4, 4, 3.5]
+		},
+		"head": {
+			"rotation": [0, 180, 45],
+			"translation": [-0.25, -17.5, 0],
+			"scale": [4, 4, 4]
+		}
+	}
+}

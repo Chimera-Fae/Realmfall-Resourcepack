@@ -1,0 +1,75 @@
+{
+  "samus.arrow_shoot": {
+    "category": "master",
+    "sounds": [
+      "samus/archer/arrow_shoot_1",
+	  "samus/archer/arrow_shoot_2"
+    ]
+  },
+  "samus.arrow_shoot_volley": {
+    "category": "master",
+    "sounds": [
+      "samus/archer/arrow_shoot_volley"
+    ]
+  },
+  "samus.backstep": {
+    "category": "master",
+    "sounds": [
+      "samus/archer/backstep"
+    ]
+  },
+  "samus.bow_spirit_summon": {
+    "category": "master",
+    "sounds": [
+      "samus/archer/bow_spirit_summon"
+    ]
+  },
+  "samus.dragon_arrow": {
+    "category": "master",
+    "sounds": [
+      "samus/archer/dragon_arrow"
+    ]
+  },
+  "samus.dragon_explode": {
+    "category": "master",
+    "sounds": [
+      "samus/archer/dragon_explode"
+    ]
+  },
+  "samus.dragon_growl": {
+    "category": "master",
+    "sounds": [
+      "samus/archer/dragon_growl"
+    ]
+  },
+  "samus.dragon_roar": {
+    "category": "master",
+    "sounds": [
+      "samus/archer/dragon_roar"
+    ]
+  },
+  "samus.hunters_focus": {
+    "category": "master",
+    "sounds": [
+      "samus/archer/hunters_focus"
+    ]
+  },
+  "samus.javelin_summon": {
+    "category": "master",
+    "sounds": [
+      "samus/archer/javelin_summon"
+    ]
+  },
+  "samus.javelin_throw2": {
+    "category": "master",
+    "sounds": [
+      "samus/archer/javelin_throw2"
+    ]
+  },
+  "samus.wind": {
+    "category": "master",
+    "sounds": [
+      "samus/archer/wind"
+    ]
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "samus.arcane_missile": {
+    "category": "master",
+    "sounds": [
+      "samus/mage/arcane_missile"
+    ]
+  },
+  "samus.blink": {
+    "category": "master",
+    "sounds": [
+      "samus/mage/blink"
+    ]
+  },
+  "samus.blink2": {
+    "category": "master",
+    "sounds": [
+      "samus/mage/blink2"
+    ]
+  },
+  "samus.fire_burn": {
+    "category": "master",
+    "sounds": [
+      "samus/mage/fire_burn"
+    ]
+  },
+  "samus.fireball": {
+    "category": "master",
+    "sounds": [
+      "samus/mage/fireball"
+    ]
+  },
+  "samus.frost_nova": {
+    "category": "master",
+    "sounds": [
+      "samus/mage/frost_nova"
+    ]
+  },
+  "samus.frost_nova_2": {
+    "category": "master",
+    "sounds": [
+      "samus/mage/frost_nova_2"
+    ]
+  },
+  "samus.frost_nova_break": {
+    "category": "master",
+    "sounds": [
+      "samus/mage/frost_nova_break"
+    ]
+  },
+  "samus.inferno_chains_chain": {
+    "category": "master",
+    "sounds": [
+      "samus/mage/inferno_chains_chain"
+    ]
+  },
+  "samus.inferno_chains_chain_hit": {
+    "category": "master",
+    "sounds": [
+      "samus/mage/inferno_chains_chain_hit"
+    ]
+  },
+  "samus.inferno_chains_explosion": {
+    "category": "master",
+    "sounds": [
+      "samus/mage/inferno_chains_explosion"
+    ]
+  },
+  "samus.quake": {
+    "category": "master",
+    "sounds": [
+      "samus/mage/quake"
+    ]
+  },
+  "samus.meteor_explosion": {
+    "category": "master",
+    "sounds": [
+      "samus/mage/meteor_explosion",
+	  "samus/mage/meteor_explosion2"
+    ]
+  },
+  "samus.meteor": {
+    "category": "master",
+    "sounds": [
+      "samus/mage/meteor"
+    ]
+  },
+  "samus.inferno_chains_summon": {
+    "category": "master",
+    "sounds": [
+      "samus/mage/inferno_chains_summon"
+    ]
+  },
+  "samus.inferno_chains_explosion2": {
+    "category": "master",
+    "sounds": [
+      "samus/mage/inferno_chains_explosion2"
+    ]
+  }
+}

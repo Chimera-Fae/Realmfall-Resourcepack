@@ -1,0 +1,81 @@
+{
+  "samus.chain": {
+    "category": "master",
+    "sounds": [
+      "samus/warrior/chain"
+    ]
+  },
+  "samus.chain_hit": {
+    "category": "master",
+    "sounds": [
+      "samus/warrior/chain_hit"
+    ]
+  },
+  "samus.judgement_leap": {
+    "category": "master",
+    "sounds": [
+      "samus/warrior/judgement_leap"
+    ]
+  },
+  "samus.judgement_shield_summon": {
+    "category": "master",
+    "sounds": [
+      "samus/warrior/judgement_shield_summon"
+    ]
+  },
+  "samus.judgement_smash1": {
+    "category": "master",
+    "sounds": [
+      "samus/warrior/judgement_smash1"
+    ]
+  },
+  "samus.judgement_smash2": {
+    "category": "master",
+    "sounds": [
+      "samus/warrior/judgement_smash2"
+    ]
+  },
+  "samus.rampage": {
+    "category": "master",
+    "sounds": [
+      "samus/warrior/rampage"
+    ]
+  },
+  "samus.shield_break": {
+    "category": "master",
+    "sounds": [
+      "samus/warrior/shield_break"
+    ]
+  },
+  "samus.shield_summon": {
+    "category": "master",
+    "sounds": [
+      "samus/warrior/shield_summon"
+    ]
+  },
+  "samus.warrior_charge": {
+    "category": "master",
+    "sounds": [
+      "samus/warrior/warrior_charge"
+    ]
+  },
+  "samus.warrior_pierce": {
+    "category": "master",
+    "sounds": [
+      "samus/warrior/warrior_pierce"
+    ]
+  },
+  "samus.whirlwind": {
+    "category": "master",
+    "sounds": [
+      "samus/warrior/whirlwind"
+    ]
+  },
+  "samus.warrior_slash": {
+    "category": "master",
+    "sounds": [
+      "samus/warrior/warrior_slash1",
+	  "samus/warrior/warrior_slash2"
+    ]
+  }
+}

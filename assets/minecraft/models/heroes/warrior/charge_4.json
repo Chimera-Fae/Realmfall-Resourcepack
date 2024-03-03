@@ -1,0 +1,33 @@
+{
+	"credit": "Made by samus2002",
+	"textures": {
+		"0": "item/heroes/warrior/charge4",
+		"particle": "item/heroes/warrior/charge4"
+	},
+	"elements": [
+		{
+			"from": [-12, -12, 8],
+			"to": [28, 28, 8],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
+			"faces": {
+				"north": {"uv": [0.032, 0.032, 16, 16], "texture": "#0"},
+				"east": {"uv": [1.032, 12.282, 3, 14.75], "texture": "#0"},
+				"south": {"uv": [16, 0.032, 0.032, 16], "texture": "#0"},
+				"west": {"uv": [1.032, 12.282, 3, 14.75], "texture": "#0"},
+				"up": {"uv": [1.032, 12.282, 3, 14.75], "texture": "#0"},
+				"down": {"uv": [1.032, 12.282, 3, 14.75], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [145, 0, 0],
+			"translation": [-5.75, -24, 4.25],
+			"scale": [2, 2, 2]
+		},
+		"head": {
+			"rotation": [47, 0, 0],
+			"translation": [0, -35.25, 13.75]
+		}
+	}
+}

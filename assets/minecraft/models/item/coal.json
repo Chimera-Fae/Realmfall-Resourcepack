@@ -1,0 +1,36 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/coal"
+    },	
+	"overrides": [					
+		{"predicate": {"custom_model_data":2058}, "model": "archer/icon_backstep"},
+		{"predicate": {"custom_model_data":2059}, "model": "archer/icon_deadly_javelin"},
+		{"predicate": {"custom_model_data":2060}, "model": "archer/icon_dragon_piercer"},
+		{"predicate": {"custom_model_data":2061}, "model": "archer/icon_hunters_focus"},
+		{"predicate": {"custom_model_data":2062}, "model": "archer/icon_quick_shot"},
+		{"predicate": {"custom_model_data":2063}, "model": "archer/icon_windrazor"},
+		
+		{"predicate": {"custom_model_data":2064}, "model": "mage/icon_arcane_missile"},
+		{"predicate": {"custom_model_data":2065}, "model": "mage/icon_blink"},
+		{"predicate": {"custom_model_data":2066}, "model": "mage/icon_fireball"},
+		{"predicate": {"custom_model_data":2067}, "model": "mage/icon_frost_nova"},
+		{"predicate": {"custom_model_data":2068}, "model": "mage/icon_inferno_chains"},
+		{"predicate": {"custom_model_data":2069}, "model": "mage/icon_meteor"},
+		
+		{"predicate": {"custom_model_data":2052}, "model": "warrior/icon_brutal_strike"},
+		{"predicate": {"custom_model_data":2053}, "model": "warrior/icon_chain_hook"},
+		{"predicate": {"custom_model_data":2054}, "model": "warrior/icon_charge"},
+		{"predicate": {"custom_model_data":2055}, "model": "warrior/icon_judgement"},
+		{"predicate": {"custom_model_data":2056}, "model": "warrior/icon_rampage"},
+		{"predicate": {"custom_model_data":2057}, "model": "warrior/icon_shield_barrier"},
+
+		{"predicate": {"custom_model_data":2132}, "model": "archmage/icon_arcane_devastation"},
+		{"predicate": {"custom_model_data":2133}, "model": "archmage/icon_arcane_shield"},
+		{"predicate": {"custom_model_data":2134}, "model": "archmage/icon_arcane_slash"},
+		{"predicate": {"custom_model_data":2135}, "model": "archmage/icon_blizzard"},
+		{"predicate": {"custom_model_data":2136}, "model": "archmage/icon_chains_of_void"},
+		{"predicate": {"custom_model_data":2137}, "model": "archmage/icon_cloak_of_hastur"},
+		{"predicate": {"custom_model_data":2138}, "model": "archmage/icon_meteor_storm"}
+	]
+}
