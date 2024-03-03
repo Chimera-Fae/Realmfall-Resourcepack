@@ -1,1 +1,0 @@
-{"textures":{"0":"modelengine:entity/mso_hakar"},"elements":[{"from":[1.0688,-10.2416,8.0],"to":[14.9312,8.241597,8.0],"faces":{"south":{"uv":[3.34375,6.875,4.25,8.0625],"tintindex":0,"rotation":0,"texture":"#0"},"north":{"uv":[4.25,6.875,3.34375,8.0625],"tintindex":0,"rotation":0,"texture":"#0"}}}],"display":{"gui":{"rotation":[30,225,0]}}}

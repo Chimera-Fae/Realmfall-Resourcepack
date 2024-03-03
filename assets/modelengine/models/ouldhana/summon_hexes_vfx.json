@@ -1,1 +1,0 @@
-{"textures":{"1":"modelengine:entity/ouldhana_vfx"},"elements":[{"from":[-12.0,7.975,-12.0],"to":[28.0,8.025,28.0],"faces":{"up":{"uv":[7.941615,7.951553,0.004114907,0.0],"tintindex":0,"rotation":0,"texture":"#1"},"down":{"uv":[7.941615,0.0,0.0,7.951553],"tintindex":0,"rotation":0,"texture":"#1"}}}],"display":{"gui":{"rotation":[30,225,0]}}}
