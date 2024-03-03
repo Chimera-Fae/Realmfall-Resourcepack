@@ -2,211 +2,211 @@
     "sources": [
         {
             "type": "single",
-            "resource": "minecraft:archmage/arcane_thunder_1"
+            "resource": "minecraft:heroes/archmage/arcane_thunder_1"
         },
         {
             "type": "single",
-            "resource": "minecraft:archmage/arcane_thunder_2"
+            "resource": "minecraft:heroes/archmage/arcane_thunder_2"
         },
         {
             "type": "single",
-            "resource": "minecraft:archmage/arcane_thunder_3"
+            "resource": "minecraft:heroes/archmage/arcane_thunder_3"
         },
         {
             "type": "single",
-            "resource": "minecraft:archmage/arcane_thunder_4"
+            "resource": "minecraft:heroes/archmage/arcane_thunder_4"
         },
         {
             "type": "single",
-            "resource": "minecraft:archmage/arcane_thunder_5"
+            "resource": "minecraft:heroes/archmage/arcane_thunder_5"
         },
         {
             "type": "single",
-            "resource": "minecraft:archmage/arcane_thunder_6"
+            "resource": "minecraft:heroes/archmage/arcane_thunder_6"
         },
         {
             "type": "single",
-            "resource": "minecraft:archmage/arcane_thunder_7"
+            "resource": "minecraft:heroes/archmage/arcane_thunder_7"
         },
         {
             "type": "single",
-            "resource": "minecraft:archmage/arcane_thunder_8"
+            "resource": "minecraft:heroes/archmage/arcane_thunder_8"
         },
         {
             "type": "single",
-            "resource": "minecraft:archmage/arcane_thunder_9"
+            "resource": "minecraft:heroes/archmage/arcane_thunder_9"
         },
         {
             "type": "single",
-            "resource": "minecraft:archmage/arcane_impact_1"
+            "resource": "minecraft:heroes/archmage/arcane_impact_1"
         },
         {
             "type": "single",
-            "resource": "minecraft:archmage/arcane_impact_2"
+            "resource": "minecraft:heroes/archmage/arcane_impact_2"
         },
         {
             "type": "single",
-            "resource": "minecraft:archmage/arcane_impact_3"
+            "resource": "minecraft:heroes/archmage/arcane_impact_3"
         },
         {
             "type": "single",
-            "resource": "minecraft:archmage/arcane_impact_4"
+            "resource": "minecraft:heroes/archmage/arcane_impact_4"
         },
         {
             "type": "single",
-            "resource": "minecraft:archmage/arcane_impact_5"
+            "resource": "minecraft:heroes/archmage/arcane_impact_5"
         },
         {
             "type": "single",
-            "resource": "minecraft:archmage/arcane_impact_6"
+            "resource": "minecraft:heroes/archmage/arcane_impact_6"
         },
         {
             "type": "single",
-            "resource": "minecraft:archmage/arcane_impact_7"
+            "resource": "minecraft:heroes/archmage/arcane_impact_7"
         },
         {
             "type": "single",
-            "resource": "minecraft:archmage/arcane_slash_1"
+            "resource": "minecraft:heroes/archmage/arcane_slash_1"
         },
         {
             "type": "single",
-            "resource": "minecraft:archmage/arcane_slash_2"
+            "resource": "minecraft:heroes/archmage/arcane_slash_2"
         },
         {
             "type": "single",
-            "resource": "minecraft:archmage/arcane_slash_3"
+            "resource": "minecraft:heroes/archmage/arcane_slash_3"
         },
         {
             "type": "single",
-            "resource": "minecraft:archmage/arcane_slash_4"
+            "resource": "minecraft:heroes/archmage/arcane_slash_4"
         },
         {
             "type": "single",
-            "resource": "minecraft:archmage/arcane_slash_5"
+            "resource": "minecraft:heroes/archmage/arcane_slash_5"
         },
         {
             "type": "single",
-            "resource": "minecraft:archmage/arcane_slash_6"
+            "resource": "minecraft:heroes/archmage/arcane_slash_6"
         },
         {
             "type": "single",
-            "resource": "minecraft:archmage/arcane_slash_7"
+            "resource": "minecraft:heroes/archmage/arcane_slash_7"
         },
         {
             "type": "single",
-            "resource": "minecraft:archmage/archmage_staff"
+            "resource": "minecraft:heroes/archmage/archmage_staff"
         },
         {
             "type": "single",
-            "resource": "minecraft:archmage/archmage_staff_shiny"
+            "resource": "minecraft:heroes/archmage/archmage_staff_shiny"
         },
         {
             "type": "single",
-            "resource": "minecraft:archmage/blizzard_icicle"
+            "resource": "minecraft:heroes/archmage/blizzard_icicle"
         },
         {
             "type": "single",
-            "resource": "minecraft:archmage/blizzard_impact_1"
+            "resource": "minecraft:heroes/archmage/blizzard_impact_1"
         },
         {
             "type": "single",
-            "resource": "minecraft:archmage/blizzard_impact_2"
+            "resource": "minecraft:heroes/archmage/blizzard_impact_2"
         },
         {
             "type": "single",
-            "resource": "minecraft:archmage/blizzard_impact_3"
+            "resource": "minecraft:heroes/archmage/blizzard_impact_3"
         },
         {
             "type": "single",
-            "resource": "minecraft:archmage/blizzard_impact_4"
+            "resource": "minecraft:heroes/archmage/blizzard_impact_4"
         },
         {
             "type": "single",
-            "resource": "minecraft:archmage/blizzard_impact_5"
+            "resource": "minecraft:heroes/archmage/blizzard_impact_5"
         },
         {
             "type": "single",
-            "resource": "minecraft:archmage/blizzard_impact_6"
+            "resource": "minecraft:heroes/archmage/blizzard_impact_6"
         },
         {
             "type": "single",
-            "resource": "minecraft:archmage/blizzard_impact_7"
+            "resource": "minecraft:heroes/archmage/blizzard_impact_7"
         },
         {
             "type": "single",
-            "resource": "minecraft:archmage/icon_arcane_devastation"
+            "resource": "minecraft:heroes/archmage/icon_arcane_devastation"
         },
         {
             "type": "single",
-            "resource": "minecraft:archmage/icon_arcane_shield"
+            "resource": "minecraft:heroes/archmage/icon_arcane_shield"
         },
         {
             "type": "single",
-            "resource": "minecraft:archmage/icon_arcane_slash"
+            "resource": "minecraft:heroes/archmage/icon_arcane_slash"
         },
         {
             "type": "single",
-            "resource": "minecraft:archmage/icon_blizzard"
+            "resource": "minecraft:heroes/archmage/icon_blizzard"
         },
         {
             "type": "single",
-            "resource": "minecraft:archmage/icon_chains_of_void"
+            "resource": "minecraft:heroes/archmage/icon_chains_of_void"
         },
         {
             "type": "single",
-            "resource": "minecraft:archmage/icon_cloak_of_hastur"
+            "resource": "minecraft:heroes/archmage/icon_cloak_of_hastur"
         },
         {
             "type": "single",
-            "resource": "minecraft:archmage/icon_meteor_storm"
+            "resource": "minecraft:heroes/archmage/icon_meteor_storm"
         },
         {
             "type": "single",
-            "resource": "minecraft:archmage/meteor_storm_explosion_1"
+            "resource": "minecraft:heroes/archmage/meteor_storm_explosion_1"
         },
         {
             "type": "single",
-            "resource": "minecraft:archmage/meteor_storm_explosion_2"
+            "resource": "minecraft:heroes/archmage/meteor_storm_explosion_2"
         },
         {
             "type": "single",
-            "resource": "minecraft:archmage/meteor_storm_explosion_3"
+            "resource": "minecraft:heroes/archmage/meteor_storm_explosion_3"
         },
         {
             "type": "single",
-            "resource": "minecraft:archmage/meteor_storm_explosion_4"
+            "resource": "minecraft:heroes/archmage/meteor_storm_explosion_4"
         },
         {
             "type": "single",
-            "resource": "minecraft:archmage/meteor_storm_explosion_5"
+            "resource": "minecraft:heroes/archmage/meteor_storm_explosion_5"
         },
         {
             "type": "single",
-            "resource": "minecraft:archmage/meteor_storm_explosion_6"
+            "resource": "minecraft:heroes/archmage/meteor_storm_explosion_6"
         },
         {
             "type": "single",
-            "resource": "minecraft:archmage/void_rupture_1"
+            "resource": "minecraft:heroes/archmage/void_rupture_1"
         },
         {
             "type": "single",
-            "resource": "minecraft:archmage/void_rupture_2"
+            "resource": "minecraft:heroes/archmage/void_rupture_2"
         },
         {
             "type": "single",
-            "resource": "minecraft:archmage/void_rupture_3"
+            "resource": "minecraft:heroes/archmage/void_rupture_3"
         },
         {
             "type": "single",
-            "resource": "minecraft:archmage/void_rupture_4"
+            "resource": "minecraft:heroes/archmage/void_rupture_4"
         },
         {
             "type": "single",
-            "resource": "minecraft:archmage/void_rupture_5"
+            "resource": "minecraft:heroes/archmage/void_rupture_5"
         },
         {
             "type": "single",
-            "resource": "minecraft:archmage/void_rupture_6"
+            "resource": "minecraft:heroes/archmage/void_rupture_6"
         }
     ]
 }
