@@ -1,8 +1,8 @@
 {
 	"credit": "Made by samus2002",
 	"textures": {
-		"0": "item/heroes/archmage_texture/blizzard_impact_1",
-		"particle": "item/heroes/archmage_texture/blizzard_impact_1"
+		"0": "item/heroes/archmage/blizzard_impact_1",
+		"particle": "item/heroes/archmage/blizzard_impact_1"
 	},
 	"elements": [
 		{

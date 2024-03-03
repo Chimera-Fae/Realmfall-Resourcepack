@@ -2,8 +2,8 @@
 	"credit": "Made by samus2002",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "item/heroes/archmage_texture/arcane_thunder_7",
-		"particle": "item/heroes/archmage_texture/arcane_thunder_7"
+		"0": "item/heroes/archmage/arcane_thunder_7",
+		"particle": "item/heroes/archmage/arcane_thunder_7"
 	},
 	"elements": [
 		{

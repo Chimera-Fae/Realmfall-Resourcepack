@@ -1,8 +1,8 @@
 {
 	"credit": "Made by samus2002",
 	"textures": {
-		"0": "item/heroes/archmage_texture/icon_meteor_storm",
-		"particle": "item/heroes/archmage_texture/icon_meteor_storm"
+		"0": "item/heroes/archmage/icon_meteor_storm",
+		"particle": "item/heroes/archmage/icon_meteor_storm"
 	},
 	"elements": [
 		{

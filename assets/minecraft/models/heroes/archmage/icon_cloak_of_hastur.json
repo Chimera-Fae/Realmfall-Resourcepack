@@ -1,8 +1,8 @@
 {
 	"credit": "Made by samus2002",
 	"textures": {
-		"0": "item/heroes/archmage_texture/icon_cloak_of_hastur",
-		"particle": "item/heroes/archmage_texture/icon_cloak_of_hastur"
+		"0": "item/heroes/archmage/icon_cloak_of_hastur",
+		"particle": "item/heroes/archmage/icon_cloak_of_hastur"
 	},
 	"elements": [
 		{

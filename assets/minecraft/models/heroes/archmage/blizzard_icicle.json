@@ -2,8 +2,8 @@
 	"credit": "Made by samus2002",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "item/heroes/archmage_texture/blizzard_icicle",
-		"particle": "item/heroes/archmage_texture/blizzard_icicle"
+		"0": "item/heroes/archmage/blizzard_icicle",
+		"particle": "item/heroes/archmage/blizzard_icicle"
 	},
 	"elements": [
 		{

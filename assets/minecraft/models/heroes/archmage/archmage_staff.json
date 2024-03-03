@@ -2,8 +2,8 @@
 	"credit": "Made by samus2002",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "item/heroes/archmage_texture/archmage_staff",
-		"particle": "item/heroes/archmage_texture/archmage_staff"
+		"0": "item/heroes/archmage/archmage_staff",
+		"particle": "item/heroes/archmage/archmage_staff"
 	},
 	"elements": [
 		{
