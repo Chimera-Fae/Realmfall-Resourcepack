@@ -1,0 +1,1 @@
+{"textures":{"0":"modelengine:entity/toro_wither_pool"},"elements":[{"from":[-8.666668,8.05,-9.0],"to":[24.666668,8.05,24.333334],"faces":{"up":{"uv":[0.0,6.25,6.25,0.0],"tintindex":0,"rotation":0,"texture":"#0"},"down":{"uv":[0.0,0.0,6.25,6.25],"tintindex":0,"rotation":0,"texture":"#0"}}}],"display":{"gui":{"rotation":[30,225,0]}}}

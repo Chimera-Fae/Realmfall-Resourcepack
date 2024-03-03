@@ -1,0 +1,1 @@
+{"textures":{"0":"modelengine:entity/healing_aura"},"elements":[{"from":[-15.778975,8.125,-15.778975],"to":[31.778975,8.125,31.778975],"faces":{"up":{"uv":[5.4375,2.5625,2.875,0.0],"tintindex":0,"rotation":0,"texture":"#0"},"down":{"uv":[5.4375,0.0,2.875,2.5625],"tintindex":0,"rotation":0,"texture":"#0"}}}],"display":{"gui":{"rotation":[30,225,0]}}}

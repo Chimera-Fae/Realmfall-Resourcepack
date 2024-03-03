@@ -1,0 +1,1 @@
+{"textures":{"0":"modelengine:entity/deathangel"},"elements":[{"from":[3.5,-7.0,8.0],"to":[12.5,8.0,8.0],"faces":{"south":{"uv":[9.0,8.0,8.4375,8.9375],"tintindex":0,"rotation":0,"texture":"#0"},"north":{"uv":[8.4375,8.0,9.0,8.9375],"tintindex":0,"rotation":0,"texture":"#0"}}}],"display":{"gui":{"rotation":[30,225,0]}}}

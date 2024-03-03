@@ -1,0 +1,1 @@
+{"textures":{"0":"modelengine:entity/ult_strings"},"elements":[{"from":[8.030994,-5.5802326,-0.7117977],"to":[8.030994,8.956343,8.010147],"faces":{"east":{"uv":[6.75,2.75,5.25,5.25],"tintindex":0,"rotation":0,"texture":"#0"},"west":{"uv":[5.25,2.75,6.75,5.25],"tintindex":0,"rotation":0,"texture":"#0"}}}],"display":{"gui":{"rotation":[30,225,0]}}}

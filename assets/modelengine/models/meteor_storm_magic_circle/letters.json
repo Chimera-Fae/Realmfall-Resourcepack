@@ -1,0 +1,1 @@
+{"textures":{"0":"modelengine:entity/meteor_storm_magic_circle"},"elements":[{"from":[-10.0075,8.0,-10.0075],"to":[26.0075,8.0,26.0075],"faces":{"up":{"uv":[9.375,4.0,6.3125,0.9375],"tintindex":0,"rotation":0,"texture":"#0"},"down":{"uv":[9.375,0.9375,6.3125,4.0],"tintindex":0,"rotation":0,"texture":"#0"}}}],"display":{"gui":{"rotation":[30,225,0]}}}

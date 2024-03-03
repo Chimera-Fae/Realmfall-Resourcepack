@@ -1,0 +1,1 @@
+{"textures":{"0":"modelengine:entity/hastur"},"elements":[{"from":[1.6550002,-1.9350004,8.0],"to":[14.344999,7.9349995,8.0],"faces":{"south":{"uv":[5.0,0.0,6.125,0.875],"tintindex":0,"rotation":0,"texture":"#0"},"north":{"uv":[6.125,0.0,5.0,0.875],"tintindex":0,"rotation":0,"texture":"#0"}}}],"display":{"gui":{"rotation":[30,225,0]}}}

@@ -1,0 +1,1 @@
+{"textures":{"0":"modelengine:entity/skeletonbow"},"elements":[{"from":[8.1,7.5142784,0.65919065],"to":[8.1,8.536037,8.336351],"faces":{"east":{"uv":[6.21875,1.25,5.25,1.375],"tintindex":0,"rotation":0,"texture":"#0"},"west":{"uv":[5.25,1.25,6.21875,1.375],"tintindex":0,"rotation":0,"texture":"#0"}}}],"display":{"gui":{"rotation":[30,225,0]}}}

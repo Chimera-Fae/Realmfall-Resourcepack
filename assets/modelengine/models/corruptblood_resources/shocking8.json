@@ -1,0 +1,1 @@
+{"textures":{"2":"modelengine:entity/dustplosion_resources"},"elements":[{"from":[-10.666668,-10.666668,8.0],"to":[26.666668,26.666668,8.0],"faces":{"south":{"uv":[16.0,0.0,14.0,2.0],"tintindex":0,"rotation":0,"texture":"#2"},"north":{"uv":[16.0,0.0,14.0,2.0],"tintindex":0,"rotation":0,"texture":"#2"}}}],"display":{"gui":{"rotation":[30,225,0]}}}

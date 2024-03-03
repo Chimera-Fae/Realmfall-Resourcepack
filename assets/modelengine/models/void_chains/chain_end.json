@@ -1,0 +1,1 @@
+{"textures":{"0":"modelengine:entity/void_chains"},"elements":[{"from":[8.0,2.8900003,-4.5700016],"to":[8.0,13.110001,8.57],"faces":{"east":{"uv":[6.0,11.0,13.0,2.0],"tintindex":0,"rotation":270,"texture":"#0"},"west":{"uv":[6.0,2.0,13.0,11.0],"tintindex":0,"rotation":270,"texture":"#0"}}}],"display":{"gui":{"rotation":[30,225,0]}}}

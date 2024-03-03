@@ -1,0 +1,1 @@
+{"textures":{"0":"modelengine:entity/skeletonlich"},"elements":[{"from":[-1.6499996,-10.0,8.0],"to":[17.65,8.0,8.0],"faces":{"south":{"uv":[0.0,2.25,2.40625,4.5],"tintindex":0,"rotation":0,"texture":"#0"},"north":{"uv":[0.0,0.0,2.40625,2.25],"tintindex":0,"rotation":0,"texture":"#0"}}}],"display":{"gui":{"rotation":[30,225,0]}}}

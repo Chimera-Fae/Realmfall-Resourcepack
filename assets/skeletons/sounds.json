@@ -1,0 +1,97 @@
+{
+ "custom.skeletons.skeletonblock": {
+  "sounds": [
+   "custom/skeletons/skeletonblock"
+  ]
+ },
+ "custom.skeletons.skeletonblockhit": {
+  "sounds": [
+   "custom/skeletons/skeletonblockhit"
+  ]
+ },
+ "custom.skeletons.skeletonhit": {
+  "sounds": [
+   "custom/skeletons/skeletonhit"
+  ]
+ },
+ "custom.skeletons.skeletonrangedhit": {
+  "sounds": [
+   "custom/skeletons/skeletonrangedhit"
+  ]
+ },
+ "custom.skeletons.skeletonchargedhit": {
+  "sounds": [
+   "custom/skeletons/skeletonchargedhit"
+  ]
+ },
+ "custom.skeletons.skeletondodge": {
+  "sounds": [
+   "custom/skeletons/skeletondodge"
+  ]
+ },
+ "custom.skeletons.skeletonambi": {
+  "sounds": [
+   "custom/skeletons/skeletonambi"
+  ]
+ },
+ "custom.skeletons.lichambi": {
+  "sounds": [
+   "custom/skeletons/lichambi"
+  ]
+ },
+ "custom.skeletons.lichhit": {
+  "sounds": [
+   "custom/skeletons/lichhit"
+  ]
+ },
+ "custom.skeletons.lichsummon": {
+  "sounds": [
+   "custom/skeletons/lichsummon"
+  ]
+ },
+ "custom.skeletons.lichshield": {
+  "sounds": [
+   "custom/skeletons/lichshield"
+  ]
+ },
+ "custom.skeletons.lichfrostball": {
+  "sounds": [
+   "custom/skeletons/lichfrostball"
+  ]
+ },
+ "custom.skeletons.lichlifesteal": {
+  "sounds": [
+   "custom/skeletons/lichlifesteal"
+  ]
+ },
+ "custom.skeletons.lichdeath": {
+  "sounds": [
+   "custom/skeletons/lichdeath"
+  ]
+ },
+ "custom.skeletons.lichambi2": {
+  "sounds": [
+   "custom/skeletons/lichambi2"
+  ]
+ },
+ "custom.skeletons.lichambi3": {
+  "sounds": [
+   "custom/skeletons/lichambi3"
+  ]
+ },
+ "custom.skeletons.lichsmallimpact": {
+  "sounds": [
+   "custom/skeletons/lichsmallimpact"
+  ]
+ },
+ "custom.skeletons.lichbigimpact": {
+  "sounds": [
+   "custom/skeletons/lichbigimpact"
+  ]
+ },
+ "custom.skeletons.skeletondeath": {
+  "sounds": [
+   "custom/skeletons/skeletondeath"
+  ]
+ }
+}

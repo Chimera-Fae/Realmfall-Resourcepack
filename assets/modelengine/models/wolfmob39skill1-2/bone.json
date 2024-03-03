@@ -1,0 +1,1 @@
+{"textures":{"0":"modelengine:entity/wolfmob39skill1"},"elements":[{"from":[-7.0,8.0,-7.0],"to":[23.0,8.0,23.0],"faces":{"up":{"uv":[15.0,15.0,0.0,6.661338E-15],"tintindex":0,"rotation":0,"texture":"#0"},"down":{"uv":[15.0,0.0,0.0,15.0],"tintindex":0,"rotation":0,"texture":"#0"}}}],"display":{"gui":{"rotation":[30,225,0]}}}

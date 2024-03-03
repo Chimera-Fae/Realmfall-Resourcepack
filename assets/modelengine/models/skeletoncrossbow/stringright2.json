@@ -1,0 +1,1 @@
+{"textures":{"0":"modelengine:entity/skeletoncrossbow"},"elements":[{"from":[4.7591906,7.414279,7.9],"to":[8.336351,8.436039,7.9],"faces":{"south":{"uv":[7.375,0.875,7.8125,1.0],"tintindex":0,"rotation":0,"texture":"#0"},"north":{"uv":[7.25,7.25,7.6875,7.375],"tintindex":0,"rotation":0,"texture":"#0"}}}],"display":{"gui":{"rotation":[30,225,0]}}}

@@ -1,0 +1,1 @@
+{"textures":{"0":"modelengine:entity/arcane_magic_circle"},"elements":[{"from":[-11.477501,8.0,-11.477501],"to":[27.4775,8.0,27.4775],"faces":{"up":{"uv":[3.3125,3.3125,0.0,0.0],"tintindex":0,"rotation":0,"texture":"#0"},"down":{"uv":[3.3125,0.0,0.0,3.3125],"tintindex":0,"rotation":0,"texture":"#0"}}}],"display":{"gui":{"rotation":[30,225,0]}}}
