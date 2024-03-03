@@ -2,8 +2,8 @@
 	"credit": "Made by samus2002",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "heroes/archer/javelin",
-		"particle": "heroes/archer/javelin"
+		"0": "item/heroes/archer/javelin",
+		"particle": "item/heroes/archer/javelin"
 	},
 	"elements": [
 		{
