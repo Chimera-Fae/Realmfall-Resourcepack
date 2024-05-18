@@ -7,7 +7,7 @@ jobs:
     - name: Checkout code
       uses: actions/checkout@v3
       with:
-        persist-credentails: false
+        persist-credentials: false
     - name: pull latest and remove old file from repo
       run: |
         git config --global user.name "Chimera-Fae"
