@@ -26,4 +26,5 @@ jobs:
         git commit -m "new pack"
         git push --force
       env:
-        PAT: ${{ secrets.PAT }}
+          PAT: ${{ secrets.PAT }}
+          run: echo "PAT=$PAT" >> $GITHUB_ENV
