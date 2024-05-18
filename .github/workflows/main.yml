@@ -6,6 +6,8 @@ jobs:
     steps:
     - name: Checkout code
       uses: actions/checkout@v3
+      with:
+        persist-credentails: false
     - name: pull latest and remove old file from repo
       run: |
         git config --global user.name "usernamehere"
@@ -23,3 +25,5 @@ jobs:
         git add -A
         git commit -m "new pack"
         git push --force
+      env:
+        PAT: ${{ secrets.PAT }}
