@@ -8,13 +8,13 @@ jobs:
       uses: actions/checkout@v2
     - name: pull latest and remove old file from repo
       run: |
-        git config --global user.name "Chimera-Fae"
-        git config --global user.email "realitysprotag@.gmail.com"
+        git config --global user.name "usernamehere"
+        git config --global user.email "emailhere"
         git config pull.rebase false
         git pull
         rm -f release.zip
     - name: Archive Release
-      uses: chimera-fae/zip-release@master
+      uses: Chimera-Fae/Realmfall-Resourcepack/zip-release@master
       with:
         filename: 'release.zip'
         exclusions: '*.git* /*node_modules/* .editorconfig'
