@@ -14,7 +14,7 @@ jobs:
         git pull
         rm -f release.zip
     - name: Archive Release
-      uses: Chimera-Fae/Realmfall-Resourcepack/zip-release@main
+      uses: Chimera-Fae/Realmfall-Resourcepack@main
       with:
         filename: 'release.zip'
         exclusions: '*.git* /*node_modules/* .editorconfig'
