@@ -46,13 +46,121 @@
             },
             "model": "item/bow_pulling_2"
         },
-    { 
-	"predicate": { "custom_model_data": 3000001 }, "model": "custom/elitecreatures/skeletons/skeletonecbow" },
-    { 
-	"predicate": { "custom_model_data": 3000001, "pulling": 1 }, "model": "custom/elitecreatures/skeletons/skeletonecbowpull0" },
-    {
-        "predicate": { "custom_model_data": 3000001, "pulling": 1, "pull": 0.65 }, "model": "custom/elitecreatures/skeletons/skeletonecbowpull1" },
-    {
-        "predicate": { "custom_model_data": 3000001, "pulling": 1, "pull": 0.9 }, "model": "custom/elitecreatures/skeletons/skeletonecbowpull2" }
+        {
+            "predicate": {
+                "custom_model_data": 101
+        },
+            "model": "item/basic_shortbow"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 101,
+                "pulling": 1
+        },
+            "model": "item/basic_shortbow_pulling_0"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 101,
+                "pulling": 1,
+                "pull": 0.65
+        },
+            "model": "item/basic_shortbow_pulling_1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 101,
+                "pulling": 1,
+                "pull": 0.9
+        },
+            "model": "item/basic_shortbow_pulling_2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 102
+        },
+            "model": "item/standard_shortbow"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 102,
+                "pulling": 1
+        },
+            "model": "item/standard_shortbow_pulling_0"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 102,
+                "pulling": 1,
+                "pull": 0.65
+        },
+            "model": "item/standard_shortbow_pulling_1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 102,
+                "pulling": 1,
+                "pull": 0.9
+        },
+            "model": "item/standard_shortbow_pulling_2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 103
+        },
+            "model": "item/master_shortbow"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 103,
+                "pulling": 1
+        },
+            "model": "item/master_shortbow_pulling_0"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 103,
+                "pulling": 1,
+                "pull": 0.65
+        },
+            "model": "item/master_shortbow_pulling_1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 103,
+                "pulling": 1,
+                "pull": 0.9
+        },
+            "model": "item/master_shortbow_pulling_2"
+        },
+        { 
+            "predicate": {
+                "custom_model_data": 3000001
+            },
+            "model": "custom/elitecreatures/skeletons/skeletonecbow"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3000001,
+                "pulling": 1
+            },
+            "model": "custom/elitecreatures/skeletons/skeletonecbowpull0"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3000001,
+                "pulling": 1,
+                "pull": 0.65
+            },
+            "model": "custom/elitecreatures/skeletons/skeletonecbowpull1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3000001,
+                "pulling": 1,
+                "pull": 0.9
+            },
+            "model": "custom/elitecreatures/skeletons/skeletonecbowpull2"
+        }
     ]
 }

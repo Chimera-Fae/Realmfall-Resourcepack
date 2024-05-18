@@ -1,0 +1,87 @@
+{
+	"credit": "Made by Chimera Fae",
+	"textures": {
+		"layer0": "item/standard_wand"
+	},
+	"elements": [
+		{
+			"from": [7, 10, 7],
+			"to": [9, 12, 9],
+			"rotation": {"angle": -45, "axis": "z", "origin": [8, 11, 8]},
+			"faces": {
+				"north": {"uv": [8, 0, 10, 2], "texture": "#layer0"},
+				"east": {"uv": [8, 3, 10, 5], "texture": "#layer0"},
+				"south": {"uv": [8, 6, 10, 8], "texture": "#layer0"},
+				"west": {"uv": [8, 9, 10, 11], "texture": "#layer0"},
+				"up": {"uv": [2, 13, 0, 11], "texture": "#layer0"},
+				"down": {"uv": [13, 0, 11, 2], "texture": "#layer0"}
+			}
+		},
+		{
+			"from": [7, 9.5, 7],
+			"to": [9, 10.5, 9],
+			"rotation": {"angle": -45, "axis": "y", "origin": [8, 10, 8]},
+			"faces": {
+				"north": {"uv": [6, 12, 8, 13], "texture": "#layer0"},
+				"east": {"uv": [9, 12, 11, 13], "texture": "#layer0"},
+				"south": {"uv": [12, 12, 14, 13], "texture": "#layer0"},
+				"west": {"uv": [0, 14, 2, 15], "texture": "#layer0"},
+				"up": {"uv": [5, 13, 3, 11], "texture": "#layer0"},
+				"down": {"uv": [13, 3, 11, 5], "texture": "#layer0"}
+			}
+		},
+		{
+			"from": [7, 5.5, 7],
+			"to": [9, 6.5, 9],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 6, 8]},
+			"faces": {
+				"north": {"uv": [14, 0, 16, 1], "texture": "#layer0"},
+				"east": {"uv": [14, 2, 16, 3], "texture": "#layer0"},
+				"south": {"uv": [3, 14, 5, 15], "texture": "#layer0"},
+				"west": {"uv": [14, 4, 16, 5], "texture": "#layer0"},
+				"up": {"uv": [13, 8, 11, 6], "texture": "#layer0"},
+				"down": {"uv": [13, 9, 11, 11], "texture": "#layer0"}
+			}
+		},
+		{
+			"from": [7.5, 0, 7.5],
+			"to": [8.5, 10, 8.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7.5, 0, 7.5]},
+			"faces": {
+				"north": {"uv": [0, 0, 1, 10], "texture": "#layer0"},
+				"east": {"uv": [2, 0, 3, 10], "texture": "#layer0"},
+				"south": {"uv": [4, 0, 5, 10], "texture": "#layer0"},
+				"west": {"uv": [6, 0, 7, 10], "texture": "#layer0"},
+				"down": {"uv": [7, 14, 6, 15], "texture": "#layer0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [-25, 0, 0],
+			"translation": [0, 2.25, -0.5]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [-25, 0, 0],
+			"translation": [0, 2.25, -0.5]
+		},
+		"firstperson_righthand": {
+			"rotation": [-25, 0, 0],
+			"translation": [0, 2.25, -0.5]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-25, 0, 0],
+			"translation": [0, 2.25, -0.5]
+		},
+		"ground": {
+			"rotation": [90, 0, 0]
+		},
+		"gui": {
+			"rotation": [0, 0, -45],
+			"translation": [1, 1.5, 0]
+		},
+		"fixed": {
+			"translation": [0, 1.75, 0]
+		}
+	}
+}
