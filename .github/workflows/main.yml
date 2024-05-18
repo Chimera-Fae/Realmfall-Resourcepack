@@ -22,6 +22,8 @@ jobs:
         exclusions: '*.git* /*node_modules/* .editorconfig'
     - name: push changes to remote
       run: |
+        echo "mypassword" > /tmp/mypassword
+        git config --global core.askPass /tmp/mypassword
         git add -A
         git commit -m "new pack"
         git push --force
