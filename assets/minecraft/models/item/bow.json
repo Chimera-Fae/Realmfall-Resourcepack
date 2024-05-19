@@ -133,6 +133,180 @@
         },
             "model": "item/master_shortbow_pulling_2"
         },
+        {
+            "predicate": {
+                "custom_model_data": 104
+        },
+            "model": "item/basic_longbow"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 104,
+                "pulling": 1
+        },
+            "model": "item/basic_longbow_pulling_0"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 104,
+                "pulling": 1,
+                "pull": 0.65
+        },
+            "model": "item/basic_longbow_pulling_1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 104,
+                "pulling": 1,
+                "pull": 0.9
+        },
+            "model": "item/basic_longbow_pulling_2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 105
+        },
+            "model": "item/standard_longbow"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 105,
+                "pulling": 1
+        },
+            "model": "item/standard_longbow_pulling_0"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 105,
+                "pulling": 1,
+                "pull": 0.65
+        },
+            "model": "item/standard_longbow_pulling_1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 105,
+                "pulling": 1,
+                "pull": 0.9
+        },
+            "model": "item/standard_longbow_pulling_2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 106
+        },
+            "model": "item/master_longbow"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 106,
+                "pulling": 1
+        },
+            "model": "item/master_longbow_pulling_0"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 106,
+                "pulling": 1,
+                "pull": 0.65
+        },
+            "model": "item/master_longbow_pulling_1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 106,
+                "pulling": 1,
+                "pull": 0.9
+        },
+            "model": "item/master_longbow_pulling_2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 107
+        },
+            "model": "item/basic_cbow"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 107,
+                "pulling": 1
+        },
+            "model": "item/basic_cbow_pulling_0"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 107,
+                "pulling": 1,
+                "pull": 0.65
+        },
+            "model": "item/basic_cbow_pulling_1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 107,
+                "pulling": 1,
+                "pull": 0.9
+        },
+            "model": "item/basic_cbow_pulling_2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 108
+        },
+            "model": "item/standard_cbow"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 108,
+                "pulling": 1
+        },
+            "model": "item/standard_cbow_pulling_0"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 108,
+                "pulling": 1,
+                "pull": 0.65
+        },
+            "model": "item/standard_cbow_pulling_1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 108,
+                "pulling": 1,
+                "pull": 0.9
+        },
+            "model": "item/standard_cbow_pulling_2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 109
+        },
+            "model": "item/master_cbow"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 109,
+                "pulling": 1
+        },
+            "model": "item/master_cbow_pulling_0"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 109,
+                "pulling": 1,
+                "pull": 0.65
+        },
+            "model": "item/master_cbow_pulling_1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 109,
+                "pulling": 1,
+                "pull": 0.9
+        },
+            "model": "item/master_cbow_pulling_2"
+        },
         { 
             "predicate": {
                 "custom_model_data": 3000001
