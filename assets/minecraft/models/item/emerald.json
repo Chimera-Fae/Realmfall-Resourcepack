@@ -10,7 +10,6 @@
 		{"predicate": {"custom_model_data":314}, "model": "item/crystalized_demons_blood"},
 		{"predicate": {"custom_model_data":315}, "model": "item/pure_lapis"},
 		{"predicate": {"custom_model_data":316}, "model": "item/flawless_emerald"},
-		{"predicate": {"custom_model_data":323}, "model": "item/flawless_diamond"},
 		{"predicate": {"custom_model_data":318}, "model": "item/iron_scales"},
 		{"predicate": {"custom_model_data":319}, "model": "item/linen"},
 		{"predicate": {"custom_model_data":320}, "model": "item/cotton"},
