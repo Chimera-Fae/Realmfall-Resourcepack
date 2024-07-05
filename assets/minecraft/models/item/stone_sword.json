@@ -1,13 +1,1 @@
-{
-    "parent": "item/handheld",
-    "textures": {
-        "layer0": "item/stone_sword"
-    },
-    "overrides": [
-      {"predicate": {"custom_model_data":2019}, "model": "heroes/archer/archer_bow"},
-      {"predicate": {"custom_model_data":2020}, "model": "heroes/archer/archer_bow_shiny"},
-
-      {"predicate": {"custom_model_data":2043}, "model": "heroes/archmage/archmage_staff"},
-      {"predicate": {"custom_model_data":2044}, "model": "heroes/archmage/archmage_staff_shiny"}
-    ]
-}
+{"parent":"item/handheld","textures":{"layer0":"item/stone_sword"},"overrides":[{"predicate":{"custom_model_data":2019},"model":"heroes/archer/archer_bow"},{"predicate":{"custom_model_data":2020},"model":"heroes/archer/archer_bow_shiny"},{"predicate":{"custom_model_data":2043},"model":"heroes/archmage/archmage_staff"},{"predicate":{"custom_model_data":2044},"model":"heroes/archmage/archmage_staff_shiny"}]}

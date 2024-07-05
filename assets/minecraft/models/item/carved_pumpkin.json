@@ -1,8 +1,1 @@
-{
-  "parent": "minecraft:block/carved_pumpkin",
-  "overrides": [
-    {"predicate": {"custom_model_data":666}, "model": "item/witch_hat", "name": "Witch Hat"}, 
-    {"predicate": {"custom_model_data":669}, "model": "item/dentures", "name": "Dentures"},
-    {"predicate": {"custom_model_data":700}, "model": "item/buckett", "name": "Bucket"}
-  ]
-}
+{"parent":"minecraft:block/carved_pumpkin","overrides":[{"predicate":{"custom_model_data":666},"model":"item/witch_hat","name":"Witch Hat"},{"predicate":{"custom_model_data":669},"model":"item/dentures","name":"Dentures"},{"predicate":{"custom_model_data":700},"model":"item/buckett","name":"Bucket"}]}

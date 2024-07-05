@@ -1,10 +1,1 @@
-{
-	"parent": "item/handheld",
-	"textures": {
-		"layer0": "item/netherite_sword"
-	},
-	"overrides": [
-		{"predicate": {"custom_model_data":3000001}, "model": "custom/elitecreatures/skeletons/skeletonecspear"},
-		{"predicate": {"custom_model_data":3000002}, "model": "custom/elitecreatures/skeletons/skeletonecsword"}
-	]
-}
+{"parent":"item/handheld","textures":{"layer0":"item/netherite_sword"},"overrides":[{"predicate":{"custom_model_data":3000001},"model":"custom/elitecreatures/skeletons/skeletonecspear"},{"predicate":{"custom_model_data":3000002},"model":"custom/elitecreatures/skeletons/skeletonecsword"}]}

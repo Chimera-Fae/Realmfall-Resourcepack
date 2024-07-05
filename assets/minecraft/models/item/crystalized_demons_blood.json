@@ -1,6 +1,1 @@
-{
-    "parent": "item/generated",
-    "textures": {
-        "layer0": "item/crystalized_demons_blood"
-    }
-}
+{"parent":"item/generated","textures":{"layer0":"item/crystalized_demons_blood"}}
