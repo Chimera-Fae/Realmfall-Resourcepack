@@ -1,1 +1,97 @@
-{"credit":"Made by Chimera Fae","texture_size":[32,32],"textures":{"5":"item/stone_sword"},"elements":[{"from":[7.5,0,7.5],"to":[8.5,6,8.5],"faces":{"north":{"uv":[4.5,5.5,5,8.5],"texture":"#5"},"east":{"uv":[5.5,5.5,6,8.5],"texture":"#5"},"south":{"uv":[6.5,0,7,3],"texture":"#5"},"west":{"uv":[6.5,3.5,7,6.5],"texture":"#5"},"up":{"uv":[9,0.5,8.5,0],"texture":"#5"},"down":{"uv":[9,1,8.5,1.5],"texture":"#5"}}},{"from":[7.75,16.25,7.375],"to":[8.25,17,8.625],"faces":{"north":{"uv":[8.5,4,9,4.5],"texture":"#5"},"east":{"uv":[8.5,5,9,5.5],"texture":"#5"},"south":{"uv":[8.5,6,9,6.5],"texture":"#5"},"west":{"uv":[8.5,7,9,7.5],"texture":"#5"},"up":{"uv":[8,9,7.5,8.5],"texture":"#5"}}},{"from":[7.75,15.5,7],"to":[8.25,16.25,9],"faces":{"north":{"uv":[8.5,8,9,8.5],"texture":"#5"},"east":{"uv":[7.5,2,8.5,2.5],"texture":"#5"},"south":{"uv":[9,2,9.5,2.5],"texture":"#5"},"west":{"uv":[7.5,3,8.5,3.5],"texture":"#5"},"up":{"uv":[8,5,7.5,4],"texture":"#5"}}},{"from":[7.75,5.5,6.75],"to":[8.25,15.5,9.25],"faces":{"north":{"uv":[5.5,0,6,5],"texture":"#5"},"east":{"uv":[0,0,1.5,5],"texture":"#5"},"south":{"uv":[1.5,5.5,2,10.5],"texture":"#5"},"west":{"uv":[2,0,3.5,5],"texture":"#5"},"up":{"uv":[7,8.5,6.5,7],"texture":"#5"},"down":{"uv":[8,0,7.5,1.5],"texture":"#5"}}},{"from":[7.625,6,7.25],"to":[8.375,16,8.75],"faces":{"north":{"uv":[2.5,5.5,3,10.5],"texture":"#5"},"east":{"uv":[4,0,5,5],"texture":"#5"},"south":{"uv":[3.5,5.5,4,10.5],"texture":"#5"},"west":{"uv":[0,5.5,1,10.5],"texture":"#5"},"up":{"uv":[8,6.5,7.5,5.5],"texture":"#5"},"down":{"uv":[8,7,7.5,8],"texture":"#5"}}}],"gui_light":"front","display":{"thirdperson_righthand":{"translation":[0,2.5,1.5]},"thirdperson_lefthand":{"translation":[0,2.5,1.5]},"firstperson_righthand":{"translation":[0,2.5,1.5]},"firstperson_lefthand":{"translation":[0,2.5,1.5]},"ground":{"rotation":[0,0,90]},"gui":{"rotation":[90,45,-90]},"fixed":{"rotation":[0,90,0]}},"overrides":[{"predicate":{"custom_model_data":2019},"model":"heroes/archer/archer_bow"},{"predicate":{"custom_model_data":2020},"model":"heroes/archer/archer_bow_shiny"},{"predicate":{"custom_model_data":2043},"model":"heroes/archmage/archmage_staff"},{"predicate":{"custom_model_data":2044},"model":"heroes/archmage/archmage_staff_shiny"}]}
+{
+	"credit": "Made by Chimera Fae",
+	"texture_size": [32, 32],
+	"textures": {
+		"5": "item/stone_sword"
+	},
+	"elements": [
+		{
+			"from": [7.5, 0, 7.5],
+			"to": [8.5, 6, 8.5],
+			"faces": {
+				"north": {"uv": [4.5, 5.5, 5, 8.5], "texture": "#5"},
+				"east": {"uv": [5.5, 5.5, 6, 8.5], "texture": "#5"},
+				"south": {"uv": [6.5, 0, 7, 3], "texture": "#5"},
+				"west": {"uv": [6.5, 3.5, 7, 6.5], "texture": "#5"},
+				"up": {"uv": [9, 0.5, 8.5, 0], "texture": "#5"},
+				"down": {"uv": [9, 1, 8.5, 1.5], "texture": "#5"}
+			}
+		},
+		{
+			"from": [7.75, 16.25, 7.375],
+			"to": [8.25, 17, 8.625],
+			"faces": {
+				"north": {"uv": [8.5, 4, 9, 4.5], "texture": "#5"},
+				"east": {"uv": [8.5, 5, 9, 5.5], "texture": "#5"},
+				"south": {"uv": [8.5, 6, 9, 6.5], "texture": "#5"},
+				"west": {"uv": [8.5, 7, 9, 7.5], "texture": "#5"},
+				"up": {"uv": [8, 9, 7.5, 8.5], "texture": "#5"}
+			}
+		},
+		{
+			"from": [7.75, 15.5, 7],
+			"to": [8.25, 16.25, 9],
+			"faces": {
+				"north": {"uv": [8.5, 8, 9, 8.5], "texture": "#5"},
+				"east": {"uv": [7.5, 2, 8.5, 2.5], "texture": "#5"},
+				"south": {"uv": [9, 2, 9.5, 2.5], "texture": "#5"},
+				"west": {"uv": [7.5, 3, 8.5, 3.5], "texture": "#5"},
+				"up": {"uv": [8, 5, 7.5, 4], "texture": "#5"}
+			}
+		},
+		{
+			"from": [7.75, 5.5, 6.75],
+			"to": [8.25, 15.5, 9.25],
+			"faces": {
+				"north": {"uv": [5.5, 0, 6, 5], "texture": "#5"},
+				"east": {"uv": [0, 0, 1.5, 5], "texture": "#5"},
+				"south": {"uv": [1.5, 5.5, 2, 10.5], "texture": "#5"},
+				"west": {"uv": [2, 0, 3.5, 5], "texture": "#5"},
+				"up": {"uv": [7, 8.5, 6.5, 7], "texture": "#5"},
+				"down": {"uv": [8, 0, 7.5, 1.5], "texture": "#5"}
+			}
+		},
+		{
+			"from": [7.625, 6, 7.25],
+			"to": [8.375, 16, 8.75],
+			"faces": {
+				"north": {"uv": [2.5, 5.5, 3, 10.5], "texture": "#5"},
+				"east": {"uv": [4, 0, 5, 5], "texture": "#5"},
+				"south": {"uv": [3.5, 5.5, 4, 10.5], "texture": "#5"},
+				"west": {"uv": [0, 5.5, 1, 10.5], "texture": "#5"},
+				"up": {"uv": [8, 6.5, 7.5, 5.5], "texture": "#5"},
+				"down": {"uv": [8, 7, 7.5, 8], "texture": "#5"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"overrides": [
+		{"predicate": {"custom_model_data": 2019}, "model": "heroes/archer/archer_bow"},
+		{"predicate": {"custom_model_data": 2020}, "model": "heroes/archer/archer_bow_shiny"},
+		{"predicate": {"custom_model_data": 2043}, "model": "heroes/archmage/archmage_staff"},
+		{"predicate": {"custom_model_data": 2044}, "model": "heroes/archmage/archmage_staff_shiny"}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0, 2.5, 1.5]
+		},
+		"thirdperson_lefthand": {
+			"translation": [0, 2.5, 1.5]
+		},
+		"firstperson_righthand": {
+			"translation": [0, 2.5, 1.5]
+		},
+		"firstperson_lefthand": {
+			"translation": [0, 2.5, 1.5]
+		},
+		"ground": {
+			"rotation": [0, 0, 90]
+		},
+		"gui": {
+			"rotation": [90, 45, -90]
+		},
+		"fixed": {
+			"rotation": [0, 90, 0]
+		}
+	}
+}
